@@ -3,15 +3,11 @@
 Name: E-Members
 
 Description:
-E-Members is a member area created in ASP. It uses an ACCESS database.
 
-The user :
+ project for E-Members area with ASP and Access as database where it based on two aspects users and administrator.
 
-His messaging
-His contacts
-His personal data
-Visits user profiles
-A help
+ The features for the user are: Messaging, adding contacts, personal data, visits other user profiles to ask for help.
+
 
 The administrator:
 
